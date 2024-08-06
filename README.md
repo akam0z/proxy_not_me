@@ -3,9 +3,9 @@
 
 Pour installer les dépendances nécessaires, exécutez la commande suivante :
 
-sh
-
+```
 pip install mitmproxy
+```
 
 Démarrage
 
@@ -37,7 +37,11 @@ Pour que votre navigateur fonctionne avec le proxy, suivez ces étapes :
     Sélectionnez "Configuration manuelle du proxy" et entrez localhost et 8082.
     Pour ajouter le certificat, allez dans "Préférences", "Vie privée & Sécurité", "Certificats" et importez le certificat téléchargé depuis http://mitm.it.
 
+
 Contributions
 
 Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration ou des corrections, n'hésitez pas à soumettre une pull request ou à ouvrir une issue.
+
+#youtube :
+https://youtu.be/hKBtbS_8Xs8?si=HoC8Edl9b8llEImu
 
