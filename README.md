@@ -1,7 +1,3 @@
-Voici le texte modifié pour être en français correct :
-
----
-
 # proxy_not_me
 
 ## Installation
