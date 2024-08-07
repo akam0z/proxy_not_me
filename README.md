@@ -1,5 +1,7 @@
 # proxy_not_me
 
+![TeXt Theme](https://raw.githubusercontent.com/akam0z/proxy_not_me/main/proxy_not_me.png)
+
 C'est un proxy minimaliste qui a pour but de servir de base pour toute personne voulant un proxy sur mesure. Le code est très facile à prendre en main grâce à sa taille réduite.
 
 pour l'instant :
