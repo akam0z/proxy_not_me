@@ -2,8 +2,18 @@
 
 C'est un proxy minimaliste qui a pour but de servir de base pour toute personne voulant un proxy sur mesure. Le code est très facile à prendre en main grâce à sa taille réduite.
 
-- test
-- test
+pour l'instant :
+
+- réduire le fingerprinting
+- bloque les traker
+- et chiffre le trafique
+
+a venir :
+
+- bloque tout les traker grace a des filtre EASYlist
+- Intégration d'une IA de reconnaissance des trackers
+- bloque les pub
+- Interface pour rendre plus facile l'ajout d'options supplémentaires
   
 ## Installation
 
