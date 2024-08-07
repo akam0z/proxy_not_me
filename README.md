@@ -6,7 +6,8 @@ pour l'instant :
 
 - réduire le fingerprinting
 - bloque les traker
-- et chiffre le trafique
+- chiffre le trafique
+- Bloquer les tracking pixels
 
 a venir :
 
