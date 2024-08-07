@@ -7,7 +7,7 @@ Pour installer les dépendances nécessaires, exécutez la commande suivante :
 pip install mitmproxy
 ```
 
-Démarrage
+Démarrage :
 
 Pour démarrer le proxy, utilisez la commande suivante :
 
@@ -45,7 +45,7 @@ Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration 
 # youtube :
 https://youtu.be/hKBtbS_8Xs8?si=HoC8Edl9b8llEImu
 
-# discorde 
+# discord
 pseudo : Akam0z
 serveur discorde ou je suis present : https://discord.gg/cgtkxePNYx
 
